@@ -1,0 +1,23 @@
+{
+  "name": "pauliset-agro-app",
+  "version": "1.0.0",
+  "description": "Pauliset agro company website/app is an agricultural website for social and economic interest and growth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devoma64/pauliset-agro-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devoma64/pauliset-agro-app/issues"
+  },
+  "homepage": "https://github.com/devoma64/pauliset-agro-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
